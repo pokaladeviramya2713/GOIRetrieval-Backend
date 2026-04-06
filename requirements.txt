@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-pydantic
-mysql-connector-python
-google-genai
-fpdf
-PyPDF2
-python-multipart
